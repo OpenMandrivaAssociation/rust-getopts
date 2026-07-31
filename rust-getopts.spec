@@ -5,8 +5,8 @@
 %global crate getopts
 
 Name:           rust-%{crate}
-Version:        0.2.21
-Release:        3%{?dist}
+Version:        0.2.24
+Release:        1%{?dist}
 Summary:        Getopts-like option parsing
 
 # Upstream license specification: MIT/Apache-2.0
